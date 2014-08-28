@@ -62,7 +62,7 @@
         {
             FacebookService.s_CollectionLimit = 2000;
             string resultErrorMessage = string.Empty;
-            result = FacebookService.Login("727523057279434",
+            result = FacebookService.Login("Your FaceBook Access Token",
                 "user_about_me", "friends_about_me", "publish_stream", "user_events", "read_stream",
                 "user_status, friends_birthday");
            
