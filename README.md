@@ -10,7 +10,6 @@ Features Description:
 
 How to make it work:
 ====================
--Create an Application Account on your FaceBook accout<br>
-Then go to https://developers.facebook.com/apps and create a new application account.<br>
+-Create an application account go to https://developers.facebook.com/apps and create a new application account.<br>
 -Save the App ID<br>
 -In the "Advanced" section, select the Native/Desktop application type and hit Save Changes<br>
